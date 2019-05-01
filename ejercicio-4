@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en-ES">
+  <head>
+    <meta charset="utf-8">
+    <title>Mi imagen de prueba</title>
+  </head>
+  <body>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" alt="Imagen del logo de HTML5" width="400px" height="400px">
+  </body>
+</html>
